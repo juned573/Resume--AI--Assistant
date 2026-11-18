@@ -3,7 +3,7 @@
 A simple Streamlit app template for you to modify!
 
 
-[CLICK ON THE LINK TO ACCESS THE APP](https://resume-ai-assistant-v7fy4tru5y9m8zoqwqkkr4.streamlit.app/)
+[CLICK HERE TO ACCESS THE APP](https://resume-ai-assistant-v7fy4tru5y9m8zoqwqkkr4.streamlit.app/)
 
 ### How to run it on your own machine
 
