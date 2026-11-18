@@ -1,8 +1,9 @@
-# 🎈 Blank app template
+
 
 A simple Streamlit app template for you to modify!
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+
+[CLICK ON THE LINK TO ACCESS THE APP](https://resume-ai-assistant-v7fy4tru5y9m8zoqwqkkr4.streamlit.app/)
 
 ### How to run it on your own machine
 
@@ -23,3 +24,4 @@ $ curl -LsSf https://astral.sh/uv/install.sh | sh
    ```
    $ uv run streamlit run streamlit_app.py
    ```
+
